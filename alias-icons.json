@@ -1,0 +1,4 @@
+{
+	'portainer': ['portainer-ce', 'portainer-be'],
+	'apprise': ['apprise', 'apprise-api']
+}
